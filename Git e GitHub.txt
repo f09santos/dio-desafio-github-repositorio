@@ -1,0 +1,9 @@
+
+O que é Git?
+R:É um Sistema de Controle de Versão que nos permite controlar as mudanças ocorridas nos arquivos de forma segura. 
+Com ele podemos persistir mudanças no código e voltar atrás quando for necessário sem precisar fazer cópias manuais.
+
+O Que GitHub?
+R: O GitHub é um serviço web de hospedagem de código que possibilita o controle de versão de projetos de software. 
+Construído sobre o Git, esse serviço abstrai do programador questões de infraestrutura, disponibilizando em um servidor web os seus projetos, 
+de modo que você ou uma equipe, possa trabalhar no mesmo projeto a partir de um controle de versão rápido e simples.
